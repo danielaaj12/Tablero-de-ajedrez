@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,UAAU;EACN,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,MAAM,EAAE,eAAe;;ACH3B,GAAG;EACC,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,KAAK;EACZ,OAAO,EAAE,YAAY;;AAGzB,mBAAmB;EACf,gBAAgB,EAAE,KAAK",
+"sources": ["../sass/_content.scss","../sass/_cuadros.scss"],
+"names": [],
+"file": "sass.css"
+}

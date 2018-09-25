@@ -1,0 +1,9 @@
+div{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+div:nth-child(even){
+    background-color: black;
+}

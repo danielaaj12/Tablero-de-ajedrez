@@ -1,0 +1,14 @@
+#container {
+  width: 724px;
+  height: 516px;
+  border: 1px solid black; }
+
+div {
+  height: 100px;
+  width: 100px;
+  display: inline-block; }
+
+div:nth-child(even) {
+  background-color: black; }
+
+/*# sourceMappingURL=sass.css.map */
